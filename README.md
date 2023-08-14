@@ -1,4 +1,4 @@
-# 包含了10,000个新闻网站
+# 包含了10,000个中国新闻类网站
 
 [cn-news-domains.json](cn-news-domains.json)，按照流量排名
 
